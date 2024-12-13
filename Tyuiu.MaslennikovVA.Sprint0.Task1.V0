@@ -1,0 +1,21 @@
+using System;
+using System.collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace Tyuiu.MaslennikovVA.Sprint0.Task1.V0
+{
+	class Program
+	{
+		static void main(string[] args)
+		{Console.WriteLine("Hello, World!");
+
+		string name = "Владислав";
+		int age = 21;
+
+		console.WriteLine("Здравствуйте меня зовут" + name + "мне" + age + "лет");
+
+		console.ReadKey
+		}
+	}
+}

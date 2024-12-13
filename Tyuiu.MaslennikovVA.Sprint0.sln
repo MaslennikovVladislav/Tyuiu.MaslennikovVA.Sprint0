@@ -8,6 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{AF1539A5
 		Tyuiu.MaslennikovVA.Sprint0.Task0.V0 = Tyuiu.MaslennikovVA.Sprint0.Task0.V0
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{89804BAA-483E-4F53-BAE5-8EC1088E774B}"
+	ProjectSection(SolutionItems) = preProject
+		Tyuiu.MaslennikovVA.Sprint0.Task1.V0 = Tyuiu.MaslennikovVA.Sprint0.Task1.V0
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
